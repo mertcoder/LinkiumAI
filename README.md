@@ -10,8 +10,7 @@ It then sends a prompt to the Gemini API and performs automatic sharing via the 
 # Example Gemini Output
 ![image](https://github.com/user-attachments/assets/86eeebc7-800c-4b40-95d3-ce8927ae4244)
 
-# Örnek Gemini Çıktısı
-![image](https://github.com/user-attachments/assets/86eeebc7-800c-4b40-95d3-ce8927ae4244)
+
 ``` 
 Gemini API Response
 Ever wish you could understand your website visitors' behavior *without* drowning in complex analytics dashboards?

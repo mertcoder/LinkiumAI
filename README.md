@@ -1,4 +1,6 @@
-# LinkiumAI
+# LinkiumAI 
+<img src="https://github.com/user-attachments/assets/b1db9124-2b6e-49bb-8a67-ec9d15021b1d" width="100" />
+
 LinkiumAI is an open-source AI-powered LinkedIn post automation tool.
 
 The tool fetches a list of popular products from Product Hunt, selects a random product, or asks the user to choose a product. 
